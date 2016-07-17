@@ -1,0 +1,57 @@
+{
+	"story" : {
+		"id" : "story01",
+		"name" : "Night At The Forgotten Castle",
+		"pic_path": "resources/title.jpg",
+		"chapters" : [
+			{
+				"id" : "chapter01",
+				"name" : "A Castle",
+				"is_first_chapter" : true,
+				"text" : "A long day of travelling has brought your group to a village right at dusk. With four horses and a cart, you find your way to small pub. The smells of something good waft out the door as one of your travelling companions opens the door. Several hours of warm food and music leave most of your compatriots in better humor than when they came, but not you. Something about what was floating in your stew isn't sitting well now. An old man in the corner sees your disposition and orders something from the barkeep who brings it over to you.\n\n\"T'wil put ya right\", he says as he clanks a large mug of something putrid and foamy in front of you.",
+				"pic_path" : "resources/chapter01.jpg",
+				"choices" : [
+					{
+						"chapter_id" : "chapter02",
+						"text" : "Hoping they can cure what they've caused, you reach for the swill and start to drink."
+					},
+					{
+						"chapter_id" : "chapter03",
+						"text" : "You might feel bad, but you're pretty sure you don't feel bad enough to try this."
+					}
+				]
+			},
+			{
+				"id" : "chapter02",
+				"name" : "The Tale Of The Old Man",
+				"text" : "After a huge gulp your head starts to swim. The old man slowly makes his way out of his chair and hobbles over to your table, where you have been sitting alone for a while.\n\n\"Ye 'er heard of the Forgotten Castle? he says as he slowly puts himself on a chair opposite you. Your vision is a little cloudy now, but your gut's a bit better. You shake your head and now you wish you hadn't. Suddenly, you have 'dizzy' to add to your list of problems that seem to be coming from this pub. \"They say ye can only see the castle every 100 years and I reckon that's t'day.\n\nThe dizziness makes you feel you must get out of this room.",
+				"choices" : [
+					{
+						"chapter_id" : "chapter04",
+						"text" : "You stand up quite suddenly and run out the front door with a hand over your mouth as the old man's chuckles turn into a cough."
+					},
+					{
+						"chapter_id" : "chapter05",
+						"text" : "You ugently, but politely stand, excuse yourself, and walk up the stairs to your room for the night, hoping your bed will wipe away the crimes caused by this establishment's food and drink."
+					}
+				]
+			},
+			{
+				"id" : "chapter03",
+				"name" : "A Sour Stomach",
+				"text" : "You take a discerning look at the stein and politely refuse. You make your way upstairs to tonight's room. The bed doesn't look terribly soft, but it will do. You barely have your boots off before you're alseep for the night."
+			},
+			{
+				"id" : "chapter04",
+				"name" : "Castle In The Mist",
+				"text" : "The cold air outside the pub makes you feel better, but you still feel compelled to walk a bit until you feel even more so. The fog makes it a little difficult, however. You walk for a few minutes and trip on something. Instead of recovering your footing, you feel nothing under you and roll down a long hill into a valley. There's still a thick mist, but in the distance you see an ancient castle, one long forgotten by the world. A sudden rain breaks out in the valley and you run for the prominent door and knock. You hear the sound ring out into the enormous, hollow expanse, and don't expect anyone to answer. Moments later the door creaks open in reponse. No one has opened the door, but you escape from the rain anyway, ignoring the danger you have unwittingly walked into..."
+			},
+			{
+				"id" : "chapter05",
+				"name" : "Perhaps Sleep Can Cure This",
+				"text" : "You make your way upstairs to tonight's room. The bed doesn't look terribly soft, but it will do. You barely have your boots off before you're alseep for the night."
+			}
+		]
+	}
+
+}
