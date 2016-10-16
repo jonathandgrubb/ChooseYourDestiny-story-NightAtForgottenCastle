@@ -2,7 +2,9 @@
     "story" : {
         "id" : "story01",
         "name" : "Night At The Forgotten Castle",
-        "pic_path": "resources/title.jpg",
+        "pic_path" : "resources/title.jpg",
+        "rating" :  "G",
+        "summary" : "a man stumbles onto a mysterious castle",
         "chapters" : [
             {
                 "id" : "chapter01",
