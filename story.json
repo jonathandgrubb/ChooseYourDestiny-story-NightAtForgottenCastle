@@ -11,7 +11,7 @@
                 "name" : "A Castle",
                 "is_first_chapter" : true,
                 "text" : "A long day of travelling has brought your group to a village right at dusk. With four horses and a cart, you find your way to small pub. The smells of something good waft out the door as one of your travelling companions opens the door. Several hours of warm food and music leave most of your compatriots in better humor than when they came, but not you. Something about what was floating in your stew isn't sitting well now. An old man in the corner sees your disposition and orders something from the barkeep who brings it over to you.\n\n\"T'wil put ya right\", he says as he clanks a large mug of something putrid and foamy in front of you.",
-                "pic_path" : "http://www.arteria-gaming.net/MedievalModularTavern_PromoA.png",
+                "pic_path" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjd9Irbx8fQAhUC5SYKHcjdDJgQjRwIBw&url=https%3A%2F%2Fforums.unrealengine.com%2Fshowthread.php%3F89670-Medieval-Tavern&bvm=bv.139782543,d.eWE&psig=AFQjCNEKQJ8HyjAuLPPWBVJV38bJG4MmZg&ust=1480288634241044",
                 "choices" : [
                     {
                         "chapter_id" : "chapter02",
