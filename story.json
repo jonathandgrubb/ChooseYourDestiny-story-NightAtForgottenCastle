@@ -46,7 +46,8 @@
             {
                 "id" : "chapter04",
                 "name" : "Castle In The Mist",
-                "text" : "The cold air outside the pub makes you feel better, but you still feel compelled to walk a bit until you feel even more so. The fog makes it a little difficult, however. You walk for a few minutes and trip on something. Instead of recovering your footing, you feel nothing under you and roll down a long hill into a valley. There's still a thick mist, but in the distance you see an ancient castle, one long forgotten by the world. A sudden rain breaks out in the valley and you run for the prominent door and knock. You hear the sound ring out into the enormous, hollow expanse, and don't expect anyone to answer. Moments later the door creaks open in reponse. No one has opened the door, but you escape from the rain anyway, ignoring the danger you have unwittingly walked into..."
+                "text" : "The cold air outside the pub makes you feel better, but you still feel compelled to walk a bit until you feel even more so. The fog makes it a little difficult, however. You walk for a few minutes and trip on something. Instead of recovering your footing, you feel nothing under you and roll down a long hill into a valley. There's still a thick mist, but in the distance you see an ancient castle, one long forgotten by the world. A sudden rain breaks out in the valley and you run for the prominent door and knock. You hear the sound ring out into the enormous, hollow expanse, and don't expect anyone to answer. Moments later the door creaks open in reponse. No one has opened the door, but you escape from the rain anyway, ignoring the danger you have unwittingly walked into...",
+                "pic_path" : "resources/chapter01.jpg"
             },
             {
                 "id" : "chapter05",
